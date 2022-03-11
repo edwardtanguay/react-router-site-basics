@@ -42,6 +42,16 @@ body {
   margin-bottom: 20px;
 }
 
+.App nav ul {
+  display: flex;
+  margin: 0;
+}
+
+.App nav ul li {
+  margin: 0 10px 0 0;
+  list-style: none;
+}
+
 .App nav ul li a {
   color: #eee;
   text-decoration: none;
