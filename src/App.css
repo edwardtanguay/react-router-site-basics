@@ -37,3 +37,12 @@ body {
 .App .page .page_about h2 {
   background-color: #d1d167;
 }
+
+.App nav {
+  margin-bottom: 20px;
+}
+
+.App nav ul li a {
+  color: #eee;
+  text-decoration: none;
+}
