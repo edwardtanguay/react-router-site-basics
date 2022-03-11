@@ -1,5 +1,5 @@
 - x create three page components: Home, Reports, About
 - x import pages and show
 - x build in Routes/Route, show page via URL
-- .. build Nav Component with Link
-- replace Link with NavLink
+- x build Nav Component with Link
+- .. replace Link with NavLink

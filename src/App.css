@@ -46,3 +46,7 @@ body {
   color: #eee;
   text-decoration: none;
 }
+
+.App nav ul li a.active {
+  color: yellow;
+}
