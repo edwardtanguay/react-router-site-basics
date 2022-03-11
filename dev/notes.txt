@@ -1,1 +1,2 @@
-- .. create three page components: Home, Reports, About
+- x create three page components: Home, Reports, About
+- .. import pages and show
