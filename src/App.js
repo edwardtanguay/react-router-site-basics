@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import { PageHome } from './pages/PageHome';
 import { PageReports } from './pages/PageReports';
 import { PageAbout } from './pages/PageAbout';
+import { PageInfo } from './pages/PageInfo';
 import { Nav } from './components/Nav';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
 					<Route path="/" element={<PageHome />} />
 					<Route path="/reports" element={<PageReports />} />
 					<Route path="/about" element={<PageAbout />} />
+					<Route path="/info" element={<PageInfo />} />
 				</Routes>
 			</div>
 		</div>
