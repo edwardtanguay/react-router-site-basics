@@ -45,6 +45,9 @@ body {
 .App nav ul {
   display: flex;
   margin: 0;
+  background: #111;
+  padding: 10px;
+  border-radius: 5px;
 }
 
 .App nav ul li {
