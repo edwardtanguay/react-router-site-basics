@@ -1,5 +1,5 @@
 export const PageHome = () => {
 	return (
-		<div>the home page</div>
+		<div>Welcome to this site.</div>
 	)
 }

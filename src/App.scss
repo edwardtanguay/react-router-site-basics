@@ -1,7 +1,7 @@
 body {
 	background: #333;
 	color: #ccc;
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .App {
 	font-size: 1.6rem;
@@ -12,19 +12,26 @@ body {
 		font-weight: bold;
 		margin: 0 0 20px 0;
 	}
-	h2 {
-		font-size: 2rem;
-		color: #888;
-		font-weight: bold;
-		margin: 10px 0;
-		background-color: #eee;
-		padding: 5px;
-	}
 	h1:not(:first-of-type) {
 		margin-top: 20px;
 	}
 	ul {
 		list-style-type: disc;
 		margin: 0 0 0 30px;
+	}
+	.page {
+		h2 {
+			font-size: 2rem;
+			color: #888;
+			font-weight: bold;
+			margin: 10px 0;
+			background-color: #eee;
+			padding: 5px;
+		}
+		.page_about {
+			h2 {
+				background-color: rgb(209, 209, 103);
+			}
+		}
 	}
 }

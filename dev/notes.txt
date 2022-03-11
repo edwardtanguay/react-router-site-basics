@@ -1,2 +1,3 @@
 - x create three page components: Home, Reports, About
-- .. import pages and show
+- x import pages and show
+- .. build in Routes/Route, show page via URL

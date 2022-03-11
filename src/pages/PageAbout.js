@@ -1,5 +1,7 @@
 export const PageAbout = () => {
   return (
-	<div>PageAbout</div>
+	  <div className="page_about">
+		  <h2>About Page</h2>
+	  </div>
   )
 }
